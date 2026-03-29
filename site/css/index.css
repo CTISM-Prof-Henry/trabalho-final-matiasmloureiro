@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    background: radial-gradient(circle at center, #d2b48c 0%, #8b4513 50%, #c6631b 100%);
+    background-attachment: fixed;
+}
