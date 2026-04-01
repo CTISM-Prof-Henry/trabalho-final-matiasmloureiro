@@ -15,6 +15,6 @@ h1, h2, p {
 body {
     height: 100vh;
     margin: 0;
-    background: radial-gradient(circle at center, #dcf4ff 0%, #ffffff 50%, #1dafff 100%);
+    background: radial-gradient(circle at center, #ffffff 0%, #e30000 50%, #1dafff 100%);
     background-attachment: fixed;
 }
