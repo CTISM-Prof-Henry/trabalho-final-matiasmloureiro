@@ -15,6 +15,11 @@ h1, h2, p {
 body {
     height: 100vh;
     margin: 0;
-    background: radial-gradient(circle at center, #ffffff 0%, #e30000 50%, #1dafff 100%);
+    background: radial-gradient(circle at center, #ffffff 0%, #005be3 50%, #1dafff 100%);
     background-attachment: fixed;
+}
+img {
+    border: 3px solid black; /* Define a espessura (3px), o estilo (sólido) e a cor (preto) */
+    border-radius: 8px;      /* Opcional: deixa as pontas levemente arredondadas, fica mais moderno */
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2); /* Opcional: uma sombra leve para dar profundidade */
 }
