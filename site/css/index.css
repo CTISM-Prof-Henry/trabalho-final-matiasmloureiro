@@ -1,8 +1,8 @@
-p,h1,h2, p{
-    color: #000000;}
-
-/* seletor de pseudoclasse */
-a :hover {
-    background-color: #002049;
-    color: #1c477f;
+body {
+    background: linear-gradient(135deg, #3d92f3, #ffffff, #101010);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
